@@ -1,0 +1,82 @@
+[
+    {
+        "id": "RS-101",
+        "name": "Deep Horizon Lab",
+        "director": "Dr. Liana Vasquez",
+        "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/AuroraPrime.jpg",
+        "establishedYear": 2110,
+        "focus": "Marine Biology and Geothermal Energy"
+    },
+    {
+        "id": "RS-102",
+        "name": "Oblivion Outpost",
+        "director": "Dr. Marcus Trent",
+        "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Zephyr-9.jpg",
+        "establishedYear": 2105,
+        "focus": "Archeologie en Energie-extractie"
+    },
+    {
+        "id": "RS-103",
+        "name": "Stormwatch Observatory",
+        "director": "Dr. Felix Carter",
+        "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Titanis.jpg",
+        "establishedYear": 2092,
+        "focus": "Atmospheric Studies and Energy Extraction"
+    },
+    {
+        "id": "RS-104",
+        "name": "Frost Vanguard",
+        "director": "Dr. Helena Torres",
+        "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Xanthea-4.jpg",
+        "establishedYear": 2107,
+        "focus": "Geothermal Energy and Cryogenic Studies"
+    },
+    {
+        "id": "RS-105",
+        "name": "Solar Forge Station",
+        "director": "Dr. Ethan Zhang",
+        "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/HeliosIX.jpg",
+        "establishedYear": 2091,
+        "focus": "Solar Energy and Volcanic Material Studies"
+    },
+    {
+        "id": "RS-106",
+        "name": "Gravity Nexus",
+        "director": "Dr. Lara Fontaine",
+        "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Gravis-8.jpg",
+        "establishedYear": 2102,
+        "focus": "Gravitational Research and Atmospheric Studies"
+    },
+    {
+        "id": "RS-107",
+        "name": "Jungle Research Center",
+        "director": "Dr. Sofia Rios",
+        "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Virella.jpg",
+        "establishedYear": 2112,
+        "focus": "Biodiversity and Biofuels Research"
+    },
+    {
+        "id": "RS-108",
+        "name": "Peak Exploration Lab",
+        "director": "Dr. Vincent Park",
+        "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Elysium-3.jpg",
+        "establishedYear": 2108,
+        "focus": "Geological Studies and Mineral Exploration"
+    },
+    {
+        "id": "RS-109",
+        "name": "Radiation Shield Research",
+        "director": "Dr. Iris Shaw",
+        "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/NovaEos.jpg",
+        "establishedYear": 2096,
+        "focus": "Radiation Shielding and Advanced Energy Extraction"
+    },
+    {
+        "id": "RS-110",
+        "name": "Nebula Study Center",
+        "director": "Dr. Aidan Green",
+        "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/OmegaBeta.jpg",
+        "establishedYear": 2113,
+        "focus": "Cosmic Dust Research and Gas Analysis"
+    }
+]
