@@ -6,7 +6,7 @@
         "age": 4.3,
         "isHabitable": true,
         "discoveryDate": "2104-11-30",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/AuroraPrime.jpg",
         "classification": "Oceanic",
         "resources": [
             "Water",
@@ -17,7 +17,7 @@
             "id": "RS-101",
             "name": "Deep Horizon Lab",
             "director": "Dr. Liana Vasquez",
-            "logoUrl": "",
+            "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/AuroraPrime.jpg",
             "establishedYear": 2110,
             "focus": "Marine Biology and Geothermal Energy"
         }
@@ -29,7 +29,7 @@
         "age": 5.2,
         "isHabitable": false,
         "discoveryDate": "2098-07-15",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Zephyr-9.jpg",
         "classification": "Desert",
         "resources": [
             "Silicium",
@@ -40,7 +40,7 @@
             "id": "RS-102",
             "name": "Oblivion Outpost",
             "director": "Dr. Marcus Trent",
-            "logoUrl": "",
+            "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Zephyr-9.jpg",
             "establishedYear": 2105,
             "focus": "Archeologie en Energie-extractie"
         }
@@ -52,7 +52,7 @@
         "age": 3.8,
         "isHabitable": false,
         "discoveryDate": "2087-05-20",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Titanis.jpg",
         "classification": "Gas Giant",
         "resources": [
             "Hydrogen",
@@ -63,7 +63,7 @@
             "id": "RS-103",
             "name": "Stormwatch Observatory",
             "director": "Dr. Felix Carter",
-            "logoUrl": "",
+            "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Titanis.jpg",
             "establishedYear": 2092,
             "focus": "Atmospheric Studies and Energy Extraction"
         }
@@ -75,7 +75,7 @@
         "age": 2.1,
         "isHabitable": false,
         "discoveryDate": "2100-04-11",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Xanthea-4.jpg",
         "classification": "Icy",
         "resources": [
             "Ice",
@@ -86,7 +86,7 @@
             "id": "RS-104",
             "name": "Frost Vanguard",
             "director": "Dr. Helena Torres",
-            "logoUrl": "",
+            "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Xanthea-4.jpg",
             "establishedYear": 2107,
             "focus": "Geothermal Energy and Cryogenic Studies"
         }
@@ -98,7 +98,7 @@
         "age": 6.5,
         "isHabitable": false,
         "discoveryDate": "2082-09-19",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/HeliosIX.jpg",
         "classification": "Rocky",
         "resources": [
             "Metallic Ore",
@@ -109,7 +109,7 @@
             "id": "RS-105",
             "name": "Solar Forge Station",
             "director": "Dr. Ethan Zhang",
-            "logoUrl": "",
+            "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/HeliosIX.jpg",
             "establishedYear": 2091,
             "focus": "Solar Energy and Volcanic Material Studies"
         }
@@ -121,7 +121,7 @@
         "age": 7.4,
         "isHabitable": false,
         "discoveryDate": "2095-03-10",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Gravis-8.jpg",
         "classification": "Gas Giant",
         "resources": [
             "Helium-3",
@@ -132,7 +132,7 @@
             "id": "RS-106",
             "name": "Gravity Nexus",
             "director": "Dr. Lara Fontaine",
-            "logoUrl": "",
+            "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Gravis-8.jpg",
             "establishedYear": 2102,
             "focus": "Gravitational Research and Atmospheric Studies"
         }
@@ -144,7 +144,7 @@
         "age": 3.0,
         "isHabitable": true,
         "discoveryDate": "2106-08-25",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Virella.jpg",
         "classification": "Tropical",
         "resources": [
             "Exotic Plants",
@@ -155,7 +155,7 @@
             "id": "RS-107",
             "name": "Jungle Research Center",
             "director": "Dr. Sofia Rios",
-            "logoUrl": "",
+            "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Virella.jpg",
             "establishedYear": 2112,
             "focus": "Biodiversity and Biofuels Research"
         }
@@ -167,7 +167,7 @@
         "age": 5.9,
         "isHabitable": true,
         "discoveryDate": "2101-12-02",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Elysium-3.jpg",
         "classification": "Mountainous",
         "resources": [
             "Geothermal Energy",
@@ -178,7 +178,7 @@
             "id": "RS-108",
             "name": "Peak Exploration Lab",
             "director": "Dr. Vincent Park",
-            "logoUrl": "",
+            "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/Elysium-3.jpg",
             "establishedYear": 2108,
             "focus": "Geological Studies and Mineral Exploration"
         }
@@ -190,7 +190,7 @@
         "age": 8.1,
         "isHabitable": false,
         "discoveryDate": "2089-04-13",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/NovaEos.jpg",
         "classification": "Radiation",
         "resources": [
             "Gamma Particles",
@@ -201,7 +201,7 @@
             "id": "RS-109",
             "name": "Radiation Shield Research",
             "director": "Dr. Iris Shaw",
-            "logoUrl": "",
+            "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/NovaEos.jpg",
             "establishedYear": 2096,
             "focus": "Radiation Shielding and Advanced Energy Extraction"
         }
@@ -213,7 +213,7 @@
         "age": 2.6,
         "isHabitable": false,
         "discoveryDate": "2109-06-18",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/OmegaBeta.jpg",
         "classification": "Gas Cloud",
         "resources": [
             "Methane",
@@ -224,7 +224,7 @@
             "id": "RS-110",
             "name": "Nebula Study Center",
             "director": "Dr. Aidan Green",
-            "logoUrl": "",
+            "logoUrl": "https://raw.githubusercontent.com/nailadhaim/Milestone-0-Dataset/refs/heads/main/assets/images/OmegaBeta.jpg",
             "establishedYear": 2113,
             "focus": "Cosmic Dust Research and Gas Analysis"
         }
